@@ -9,7 +9,7 @@ Video link:
 
 Site Preview: 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/pcchase617/Regex-ation/main/regex-ation.PNG)
 
 Requirements:
 
