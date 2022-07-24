@@ -5,8 +5,6 @@ This is a Regex tutorial and explanation of each of its components that are loca
 
 Repository: https://github.com/pcchase617/Regex-ation
 
-Video link:
-
 Site Preview: 
 
 ![alt text](https://raw.githubusercontent.com/pcchase617/Regex-ation/main/regex-ation.PNG)
